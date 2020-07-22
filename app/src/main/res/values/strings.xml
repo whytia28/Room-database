@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="id_student">Id_student</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="id">ID :</string>
+    <string name="nama1">Nama :</string>
+    <string name="email1">Email :</string>
+    <string name="icon_delete">button delete</string>
+    <string name="icon_edit">button edit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="view">View</string>
+    <string name="save">Save</string>
+</resources>
